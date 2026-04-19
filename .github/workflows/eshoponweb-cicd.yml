@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: XLabs-232
-  WEBAPP-NAME: eshoponweb-webapp-BRAD123
+  WEBAPP-NAME: eshoponweb-BRAD
 
 jobs:
   #Build, test and publish .net web project in repository
